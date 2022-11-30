@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "aoc2022"
+  site-url: "https://miwojc.github.io/aoc2022"
+  description: "aoc2022"
+  repo-branch: main
+  repo-url: "https://github.com/miwojc/aoc2022"
