@@ -1,0 +1,5 @@
+website:
+  sidebar:
+    contents:
+      - index.ipynb
+      - day01.ipynb
