@@ -3,3 +3,4 @@ website:
     contents:
       - index.ipynb
       - day01.ipynb
+      - day02.ipynb
